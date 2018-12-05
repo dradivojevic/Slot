@@ -1,0 +1,5 @@
+-lib random
+-lib pixijs
+-cp src
+-js bin/SlotGame.js
+-main Main
